@@ -4,7 +4,7 @@ Project 3 Walkthrough
 https://drive.google.com/file/d/139kcQdMhVcHj6eFEcsLL6P6sMpX-CInc/view?usp=sharing
 
 GitHub repository:
-https://github.com/gmwgm8/se_project_aroundtheus/blob/ad1f3f92c2ee435a46c498ae2d588e60b61cd5ed/se_aroundtheus_GW_05FEB25.zip
+https://gmwgm8.github.io/se_project_aroundtheus_GW/
 
 
 Rough Description:
